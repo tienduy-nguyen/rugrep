@@ -1,2 +1,5 @@
 # rugrep
-Mini grep in rust - command line tools tutorial
+
+Mini command line tools like grep written in rust
+
+
